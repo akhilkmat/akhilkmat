@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil K Mathews
-- 👀 I’m interested in DEM, CFD Simulations. AI for scietific computing etc..
+- 👀 I’m interested in DEM, MPM/FEM coupling Simulations. AI for scietific computing etc..
 - 🌱 I’m currently learning More skills in the above domains
 - 💞️ I’m looking to collaborate with anyone who wish to research in this field
 - 📫 How to reach me: email -> akhilkmat@gmail.com
